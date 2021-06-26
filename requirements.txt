@@ -68,6 +68,7 @@ Pygments==2.6.1
 pyparsing==2.4.7
 pyrsistent==0.16.0
 PySocks==1.7.1
+python==3.6.8
 python-dateutil==2.8.1
 pytz==2020.1
 pywinpty==0.5.7
